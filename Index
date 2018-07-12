@@ -1,0 +1,203 @@
+<!-- Test Code -->
+
+<TABLE border=1 width="980">
+	<TR vAlign=top>
+		<TD height=18 width=145 class="labels">Type:</TD>
+		<TD height=18 width=180 class="results">Appeal</TD>
+		<TD height=18 width=145 class="labels">Status:</TD>
+		<TD height=18 width=180 class="labels">Open</TD>
+		<TD height=18 width=145 class="labels">Case ID:</TD>
+		<TD height=18 width=180 class="labels">12345</TD>
+	</TR>
+	<TR vAlign=top>
+		<TD height=18 width=145 class="labels">Due Date:</TD>
+		<TD height=18 width=180 class="labels"></TD>
+		<TD height=18 width=145 class="labels">Escalation call:</TD>
+		<TD height=18 width=180 class="labels"></TD>
+		<TD height=18 width=145 class="labels">Escalation Reason:</TD>
+		<TD height=18 width=180 class="labels"></TD>
+	</TR>
+	<br>
+    <TR> 
+    	<TD height=18 width=490 class="labels"></TD>
+		<TD height=18 width=490 class="labels"></TD>
+     </TR>
+        <TR> 
+    	<TD height=18 width=490 class="labels"></TD>
+		<TD height=18 width=490 class="labels"></TD>
+     </TR>
+	<TR vAlign=top>
+		<TD height=18 width=145 class="labels">Claim/Seq:</TD>
+		<TD height=18 width=345 class="labels"></TD>
+
+		<TD height=18 width=145 class="labels">Prior Auth ID:</TD>
+		<TD height=18 width=345 class="labels"></TD>
+
+	</TR>
+	<TR vAlign=top>
+		<TD height=18 width=145 class="labels">Provider Name:</TD>
+		<TD height=18 width=345 class="labels"></TD>
+		<TD height=18 width=145 class="labels">Provider ID:</TD>
+		<TD height=18 width=345 class="labels"></TD>
+
+
+	</TR>
+</TABLE>
+<TD>&nbsp; <!-- need a space in a row--></TD>
+
+<table border="1" width="980">
+	<!-- Table denoting Decision section -->
+	<tr>
+		<td>
+			<fieldset>
+				<legend class="labelhead_1">Decision:</legend>
+				<table border="1" height="150" width="980">
+					<tr>
+						<td valign="top">
+							<table border="1" width="980" cellspacing="0" cellpadding="0" border="0">
+								<tr>
+									<td nowrap class="labels" width="145">Decision
+										Date:</td>
+									<td valign="middle" width="470"></td>
+									<td class="labels"  width="145">Decision:</td>
+									<td valign="middle" width=""></td>
+                                    <td> </td>
+								</tr>
+
+								<tr valign="middle">
+									<td nowrap class="labels"  width="145">Priority:</td>
+									<td valign="middle" width="180"></td>
+									<td nowrap class="labels" width="145">Category:</td>
+									<td valign="middle" width="180"></td>
+									<td nowrap class="labels" width="145">Reason:</td>
+									<td valign="middle" width="180"></td>
+								</tr>
+								<tr valign="middle">
+									<td nowrap class="labels" width="145">Level:</td>
+									<td valign="middle" width="345"></td>
+									<td nowrap class="labels"  width="145">Status
+										Type:</td>
+									<td valign="middle" width="180"></td>
+
+								</tr>
+								<tr valign="middle">
+									<td nowrap class="labels" width="145">Adjusted Claim #:</td>
+									<td valign="middle" width="345"></td>
+									<td nowrap class="labels"  width="145">Adjusted Amount</td>
+									<td valign="middle" width="180"></td>
+
+								</tr>
+								<tr>
+									<TD>&nbsp; <!-- need a space in a row--></TD>
+									<TD>&nbsp; <!-- need a space in a row--></TD>
+								</tr>
+
+								<tr>
+								<tr>
+									<td nowrap class="labels"  width="120">Notes</td>
+								</tr>
+								<tr>
+									<td nowrap class="labels" width="120">Create
+										Date:</td>
+									<td valign="middle" width="120"></td>
+									<td nowrap class="labels"  width="120">Application:</td>
+									<td>&nbsp; <!-- need a space in a row--></td>
+								</tr>
+
+
+								<tr><td nowrap class="labels"  width="120">Detail
+									Notes:</td>
+								<td colspan="3"><textarea cols="50" rows="5"
+										style="overflow-y: scroll; resize: none;"></textarea>
+								<td>
+								</tr>
+							</table>
+				</table>
+			</fieldset></td>
+	</tr>
+
+</table>
+<table border="0" width="980">
+	<!-- Table denoting Summary section -->
+	<tr>
+		<td>
+			<fieldset>
+				<legend class="labelhead_1">Summary:</legend>
+				<table border="0" height="150" width="980">
+					<tr>
+						<td valign="top">
+							<table width="980" cellspacing="0" cellpadding="0" border="0">
+								<tr>
+									<td nowrap class="labels" valign="middle" width="145">Assoc.
+										Classes:</td>
+									<td valign="middle" width="470"></td>
+									<td class="labels" width="140">Received Date:</td>
+									<td valign="middle" width="180"></td>
+									<td class="labels" colspan="5" valign="middle">Summary
+										Case ID:</td>
+									<td valign="middle" width="120"></td>
+								</tr>
+
+								<tr valign="middle">
+									<td nowrap class="labels" valign="middle" width="120">Received
+										Source:</td>
+									<td valign="middle" width="120"></td>
+									<td nowrap class="labels" valign="middle" width="120">Creation
+										Date:</td>
+									<td valign="middle" width="120"></td>
+									<td nowrap class="labels" valign="middle" width="120">Summary
+										Status:</td>
+									<td valign="middle" width="120"></td>
+								</tr>
+								<tr valign="middle">
+									<td nowrap class="labels" valign="middle" width="120">Requested
+										By:</td>
+									<td valign="middle" width="120"></td>
+									<td nowrap class="labels" valign="middle" width="120">Requester
+										Name:</td>
+									<td valign="middle" width="120"></td>
+									<td nowrap class="labels" valign="middle" width="120">Source:</td>
+									<td valign="middle" width="120"></td>
+
+								</tr>
+								<tr>
+									<TD>&nbsp; <!-- need a space in a row--></TD>
+									<TD>&nbsp; <!-- need a space in a row--></TD>
+								</tr>
+
+								<tr>
+									<td nowrap class="labels" valign="middle" width="120">Summary
+										Notes</td>
+								</tr>
+								<tr>
+									<td nowrap class="labels" valign="middle" width="120">Create
+										Date:</td>
+									<td valign="middle" width="120"></td>
+									<td nowrap class="labels" valign="middle" width="120">Application:</td>
+									<td>&nbsp; <!-- need a space in a row--></td>
+								</tr>
+
+								<tr>
+									<td nowrap class="labels" valign="middle" width="120">Summary
+										Notes:</td>
+									<td colspan="3"><textarea cols="50" rows="5"
+											style="overflow-y: scroll; resize: none;"></textarea>
+									<td>
+								</tr>
+							</table>
+				</table>
+			</fieldset></td>
+	</tr>
+
+</table>
+
+<TABLE>
+	<TR>
+		<TD width="890px"></TD>
+		<TD>
+		<button name='back' onclick='backView_GA()' style="width:100px">Back</button>
+		</TD>
+	</TR>
+</TABLE>
+
+
